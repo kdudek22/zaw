@@ -1,0 +1,13 @@
+names:
+- red
+- yellow
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: test-jljy7
+  url: https://universe.roboflow.com/test2115/test-jljy7/dataset/2
+  version: 2
+  workspace: test2115
+test: test/images
+train: train/images
+val: valid/images
